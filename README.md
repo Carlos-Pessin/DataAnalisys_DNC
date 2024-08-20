@@ -17,3 +17,20 @@ Besides that, they want to see:
 *   Top 10 best-selling products
 *   Total sales value per month
 *   Total sales value per month and per country (consider only the top 10 countries)
+
+# Dataset
+- InvoiceNo
+- StockCode
+- Description
+- Quantity
+- InvoiceDate
+- UnitPrice
+- CustomerID
+- Country
+
+
+# Libraries
+- pandas
+- numpy
+- seaborn
+- matplotlib
